@@ -1,4 +1,4 @@
-# Кошки и Собаки Распознавание
+# MNIST
 
 ![MNIST](./images/mnist.png)
 
